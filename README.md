@@ -6,11 +6,10 @@ For accessibility reasons, buttons use a standard <button> element, but are enha
 
 There are several types of basic usage for button.
 
+## Example
 
 1. Basic Usage
 The color property sets the color of the button. Ionic includes a number of default colors which can be easily overridden:
-
-## Example
 
 <button ion-button color="light">Light</button>
 <button ion-button>Default</button>
